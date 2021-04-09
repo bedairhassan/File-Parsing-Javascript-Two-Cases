@@ -1,0 +1,15 @@
+1) what is your name
+a) name1
+b) name2
+c) name3
+d) name4
+
+answer: d
+
+2) what is your age
+a) name1
+b) name2
+c) name3
+d) name4
+
+answer: d
